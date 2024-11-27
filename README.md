@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/jadrian-almeida/
-[instagram]: https://www.instagram.com/Josh
-[twitter]: https://twitter.com/Josh
+[twitter]: 
+[instagram]:
